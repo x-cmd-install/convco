@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2296542,
       "digest": "sha256:410b58bd38db0d3402b8ef950234b44b800ae748148fa6d22ebdcfa6a330785f",
-      "download_count": 239,
+      "download_count": 249,
       "created_at": "2026-09-03T20:03:54Z",
       "updated_at": "2026-09-03T20:03:55Z",
       "browser_download_url": "https://github.com/convco/convco/releases/download/v0.7.2/convco-v0.7.2-aarch64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2431168,
       "digest": "sha256:8871a3b435703f076b759fc7dfaf35f70d039542fad8210437c457ceb4663863",
-      "download_count": 295,
+      "download_count": 307,
       "created_at": "2026-09-03T20:03:55Z",
       "updated_at": "2026-09-03T20:03:55Z",
       "browser_download_url": "https://github.com/convco/convco/releases/download/v0.7.2/convco-v0.7.2-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2744126,
       "digest": "sha256:57601b963de1b3a8ffff75041b76e2caa20d375305037ffe120f4fc423ece3e6",
-      "download_count": 560,
+      "download_count": 585,
       "created_at": "2026-09-03T20:03:55Z",
       "updated_at": "2026-09-03T20:03:56Z",
       "browser_download_url": "https://github.com/convco/convco/releases/download/v0.7.2/convco-v0.7.2-x86_64-pc-windows-msvc.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:dc954f64d80b7ec7ccb5de1b326569ecdd23f186b41fb71cd07f7dc34e752cfc",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T20:03:55Z",
       "updated_at": "2026-09-03T20:03:56Z",
       "browser_download_url": "https://github.com/convco/convco/releases/download/v0.7.2/convco-v0.7.2-x86_64-pc-windows-msvc.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2700739,
       "digest": "sha256:a34797bb6867d3444cce9466c96d49abea4cecd02cac12dce218b637570fd0d4",
-      "download_count": 1560,
+      "download_count": 1613,
       "created_at": "2026-09-03T20:03:55Z",
       "updated_at": "2026-09-03T20:03:56Z",
       "browser_download_url": "https://github.com/convco/convco/releases/download/v0.7.2/convco-v0.7.2-x86_64-unknown-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2701082,
       "digest": "sha256:f9cfad24af372018f4b8d430cf86d1b7b9b36fcb7e1db5dd30c54b2eed7dde75",
-      "download_count": 374,
+      "download_count": 377,
       "created_at": "2026-09-03T20:03:56Z",
       "updated_at": "2026-09-03T20:03:57Z",
       "browser_download_url": "https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz"
