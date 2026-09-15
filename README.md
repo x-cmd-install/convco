@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 2 | 0 | 2 | 0 | 6 |
-| last60d | 2026-07-16 | 2 | 13 | 0 | 3 | 0 | 13 |
-| 90d | 2026-06-16 | 3 | 25 | 0 | 4 | 0 | 35 |
-| last180d | 2026-03-18 | 4 | 34 | 0 | 5 | 0 | 49 |
-| 360d | 2025-09-19 | 5 | 43 | 0 | 9 | 0 | 59 |
-| last720d | 2024-09-24 | 7 | 90 | 0 | 20 | 0 | 119 |
+| 30d | 2026-08-16 | 1 | 2 | 0 | 2 | 0 | 6 |
+| last60d | 2026-07-17 | 2 | 13 | 0 | 3 | 0 | 13 |
+| 90d | 2026-06-17 | 3 | 25 | 0 | 4 | 0 | 35 |
+| last180d | 2026-03-19 | 4 | 34 | 0 | 5 | 0 | 49 |
+| 360d | 2025-09-20 | 5 | 43 | 0 | 9 | 0 | 59 |
+| last720d | 2024-09-25 | 7 | 89 | 0 | 20 | 0 | 119 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:23:57Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:23:51Z._
