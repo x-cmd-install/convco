@@ -4,7 +4,7 @@
 
 Conventional commits, changelog, versioning, validation
 
-![convco](https://repo.x-cmd.io/convco.svg)
+[![x-cmd/install — convco Code Quality Monitoring Repo Card](https://repo.x-cmd.io/convco.svg)](https://x-cmd.com/install/convco)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 319 · **Forks**: 33 · **Open issues**: 111 · **Contributors**: 24
+- **Stars**: 320 · **Forks**: 33 · **Open issues**: 111 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 2 | 0 | 2 | 0 | 6 |
-| last60d | 2026-07-20 | 2 | 8 | 0 | 3 | 0 | 13 |
-| 90d | 2026-06-20 | 3 | 25 | 0 | 4 | 0 | 35 |
-| last180d | 2026-03-22 | 4 | 34 | 0 | 5 | 0 | 49 |
-| 360d | 2025-09-23 | 5 | 42 | 0 | 9 | 0 | 59 |
-| last720d | 2024-09-28 | 7 | 89 | 0 | 20 | 0 | 119 |
+| 30d | 2026-08-21 | 1 | 1 | 0 | 2 | 0 | 3 |
+| last60d | 2026-07-22 | 2 | 8 | 0 | 3 | 0 | 9 |
+| 90d | 2026-06-22 | 3 | 23 | 0 | 4 | 0 | 33 |
+| last180d | 2026-03-24 | 4 | 34 | 0 | 5 | 0 | 49 |
+| 360d | 2025-09-25 | 5 | 42 | 0 | 9 | 0 | 58 |
+| last720d | 2024-09-30 | 7 | 86 | 0 | 20 | 0 | 114 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:13:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:08:43Z._
