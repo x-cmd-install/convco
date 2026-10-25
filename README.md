@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 218 · **Open PRs**: 5 · **Closed issues**: 111 · **Open issues**: 0 · **Commits**: 399
+- **Releases**: 36 · **Merged PRs**: 218 · **Open PRs**: 6 · **Closed issues**: 111 · **Open issues**: 0 · **Commits**: 399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 1 | 1 | 5 | 2 | 0 | 3 |
-| 90d | 2026-07-26 | 2 | 8 | 5 | 3 | 0 | 13 |
-| last180d | 2026-04-27 | 4 | 31 | 5 | 4 | 0 | 47 |
-| 360d | 2025-10-29 | 5 | 41 | 5 | 8 | 0 | 58 |
-| last720d | 2024-11-03 | 6 | 80 | 5 | 20 | 0 | 105 |
+| 30d | 2026-09-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 1 | 1 | 6 | 2 | 0 | 2 |
+| 90d | 2026-07-27 | 2 | 3 | 6 | 3 | 0 | 9 |
+| last180d | 2026-04-28 | 4 | 31 | 6 | 4 | 0 | 47 |
+| 360d | 2025-10-30 | 5 | 41 | 6 | 8 | 0 | 58 |
+| last720d | 2024-11-04 | 6 | 80 | 6 | 20 | 0 | 105 |
 
 ## Release assets
 
@@ -88,12 +88,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/convco). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/convco). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.7.2` | ✅ latest |
-| Nix unstable | `0.6.3` | ⚠️ outdated |
+| Nix unstable | `0.7.2` | ✅ latest |
 
 ## Improve this data
 
@@ -104,4 +104,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:35:16Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:38:40Z._
