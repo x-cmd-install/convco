@@ -14,11 +14,11 @@ x install convco
 
 ## Code insight
 
-Total: **8,157** lines of code across **42** files in the top 5 languages.
+Total: **8,328** lines of code across **42** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,964 | 45 | 957 | 33 |
+| Rust | 8,135 | 48 | 981 | 33 |
 | Dockerfile | 67 | 3 | 0 | 1 |
 | Toml | 59 | 0 | 5 | 2 |
 | Hcl | 34 | 11 | 2 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.2` (2026-09-03)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-10-29
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 218 · **Open PRs**: 6 · **Closed issues**: 111 · **Open issues**: 0 · **Commits**: 399
+- **Releases**: 36 · **Merged PRs**: 224 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 0 · **Commits**: 405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 1 | 1 | 6 | 2 | 0 | 2 |
-| 90d | 2026-07-31 | 2 | 3 | 6 | 3 | 0 | 9 |
-| last180d | 2026-05-02 | 4 | 31 | 6 | 4 | 0 | 47 |
-| 360d | 2025-11-03 | 5 | 41 | 6 | 8 | 0 | 58 |
-| last720d | 2024-11-08 | 6 | 80 | 6 | 20 | 0 | 105 |
+| 30d | 2026-09-30 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-31 | 1 | 6 | 0 | 0 | 0 | 8 |
+| 90d | 2026-08-01 | 2 | 9 | 0 | 2 | 0 | 15 |
+| last180d | 2026-05-03 | 4 | 37 | 0 | 4 | 0 | 53 |
+| 360d | 2025-11-04 | 5 | 47 | 0 | 8 | 0 | 64 |
+| last720d | 2024-11-09 | 6 | 86 | 0 | 20 | 0 | 111 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:07:54Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:55:03Z._
