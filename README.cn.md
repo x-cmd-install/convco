@@ -48,7 +48,7 @@ x install convco
 
 ## 流行度
 
-- **Star**: 333 · **Fork**: 33 · **开放 issue**: 111 · **贡献者**: 24
+- **Star**: 334 · **Fork**: 33 · **开放 issue**: 111 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install convco
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 7 | 1 | 0 | 0 | 8 |
-| last60d | 2026-09-18 | 0 | 12 | 1 | 0 | 0 | 10 |
-| 90d | 2026-08-19 | 1 | 14 | 1 | 2 | 0 | 16 |
-| last180d | 2026-05-21 | 4 | 40 | 1 | 4 | 0 | 52 |
-| 360d | 2025-11-22 | 5 | 53 | 1 | 8 | 0 | 71 |
-| last720d | 2024-11-27 | 6 | 89 | 1 | 19 | 0 | 111 |
+| 30d | 2026-10-20 | 0 | 7 | 1 | 0 | 0 | 8 |
+| last60d | 2026-09-20 | 0 | 12 | 1 | 0 | 0 | 10 |
+| 90d | 2026-08-21 | 1 | 13 | 1 | 2 | 0 | 16 |
+| last180d | 2026-05-23 | 4 | 40 | 1 | 4 | 0 | 52 |
+| 360d | 2025-11-24 | 5 | 53 | 1 | 8 | 0 | 71 |
+| last720d | 2024-11-29 | 6 | 89 | 1 | 19 | 0 | 111 |
 
 ## Release 资产
 
@@ -86,6 +86,15 @@ x install convco
 | [convco-x86_64-unknown-linux-musl.tar.gz](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/x64/musl` |
 | [convco-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/convco) 上共有 **11** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.7.2` | ✅ latest |
+| Nix unstable | `0.7.2` | ✅ latest |
+
 ## 改进这些数据
 
 convco 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `convco` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +104,4 @@ convco 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:59:52Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:16:40Z._

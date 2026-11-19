@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 333 · **Forks**: 33 · **Open issues**: 111 · **Contributors**: 24
+- **Stars**: 334 · **Forks**: 33 · **Open issues**: 111 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 7 | 1 | 0 | 0 | 8 |
-| last60d | 2026-09-18 | 0 | 12 | 1 | 0 | 0 | 10 |
-| 90d | 2026-08-19 | 1 | 14 | 1 | 2 | 0 | 16 |
-| last180d | 2026-05-21 | 4 | 40 | 1 | 4 | 0 | 52 |
-| 360d | 2025-11-22 | 5 | 53 | 1 | 8 | 0 | 71 |
-| last720d | 2024-11-27 | 6 | 89 | 1 | 19 | 0 | 111 |
+| 30d | 2026-10-20 | 0 | 7 | 1 | 0 | 0 | 8 |
+| last60d | 2026-09-20 | 0 | 12 | 1 | 0 | 0 | 10 |
+| 90d | 2026-08-21 | 1 | 13 | 1 | 2 | 0 | 16 |
+| last180d | 2026-05-23 | 4 | 40 | 1 | 4 | 0 | 52 |
+| 360d | 2025-11-24 | 5 | 53 | 1 | 8 | 0 | 71 |
+| last720d | 2024-11-29 | 6 | 89 | 1 | 19 | 0 | 111 |
 
 ## Release assets
 
@@ -86,6 +86,15 @@ Lowest-scoring checks:
 | [convco-x86_64-unknown-linux-musl.tar.gz](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/x64/musl` |
 | [convco-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/convco). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.7.2` | ✅ latest |
+| Nix unstable | `0.7.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `convco` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +104,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:59:51Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:16:40Z._
