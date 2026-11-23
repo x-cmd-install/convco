@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.2` (2026-09-03)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-22
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 230 · **Open PRs**: 1 · **Closed issues**: 111 · **Open issues**: 0 · **Commits**: 412
+- **Releases**: 36 · **Merged PRs**: 231 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 0 · **Commits**: 413
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 7 | 1 | 0 | 0 | 7 |
-| last60d | 2026-09-23 | 0 | 9 | 1 | 0 | 0 | 8 |
-| 90d | 2026-08-24 | 1 | 13 | 1 | 2 | 0 | 16 |
-| last180d | 2026-05-26 | 3 | 39 | 1 | 4 | 0 | 52 |
-| 360d | 2025-11-27 | 5 | 53 | 1 | 8 | 0 | 71 |
-| last720d | 2024-12-02 | 6 | 89 | 1 | 19 | 0 | 111 |
+| 30d | 2026-10-24 | 0 | 7 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-24 | 0 | 10 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-25 | 1 | 14 | 0 | 2 | 0 | 17 |
+| last180d | 2026-05-27 | 3 | 40 | 0 | 4 | 0 | 53 |
+| 360d | 2025-11-28 | 5 | 54 | 0 | 8 | 0 | 72 |
+| last720d | 2024-12-03 | 6 | 90 | 0 | 19 | 0 | 112 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:31:39Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:52:53Z._
