@@ -26,11 +26,11 @@ Total: **8,807** lines of code across **42** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/11 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 11 | 1 | 0 | 0 | 12 |
-| last60d | 2026-09-25 | 0 | 14 | 1 | 0 | 0 | 13 |
-| 90d | 2026-08-26 | 1 | 18 | 1 | 2 | 0 | 21 |
-| last180d | 2026-05-28 | 3 | 44 | 1 | 4 | 0 | 57 |
-| 360d | 2025-11-29 | 5 | 58 | 1 | 8 | 0 | 76 |
-| last720d | 2024-12-04 | 6 | 94 | 1 | 19 | 0 | 116 |
+| 30d | 2026-10-26 | 0 | 11 | 1 | 0 | 0 | 12 |
+| last60d | 2026-09-26 | 0 | 14 | 1 | 0 | 0 | 13 |
+| 90d | 2026-08-27 | 1 | 18 | 1 | 2 | 0 | 21 |
+| last180d | 2026-05-29 | 3 | 44 | 1 | 4 | 0 | 57 |
+| 360d | 2025-11-30 | 5 | 58 | 1 | 8 | 0 | 76 |
+| last720d | 2024-12-05 | 6 | 94 | 1 | 19 | 0 | 116 |
 
 ## Release assets
 
@@ -86,15 +86,6 @@ Lowest-scoring checks:
 | [convco-x86_64-unknown-linux-musl.tar.gz](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/x64/musl` |
 | [convco-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/convco). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.7.2` | ✅ latest |
-| Nix unstable | `0.7.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `convco` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +95,4 @@ Install metadata for convco lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:23Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:14:44Z._

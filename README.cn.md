@@ -26,11 +26,11 @@ x install convco
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/11 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ x install convco
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 11 | 1 | 0 | 0 | 12 |
-| last60d | 2026-09-25 | 0 | 14 | 1 | 0 | 0 | 13 |
-| 90d | 2026-08-26 | 1 | 18 | 1 | 2 | 0 | 21 |
-| last180d | 2026-05-28 | 3 | 44 | 1 | 4 | 0 | 57 |
-| 360d | 2025-11-29 | 5 | 58 | 1 | 8 | 0 | 76 |
-| last720d | 2024-12-04 | 6 | 94 | 1 | 19 | 0 | 116 |
+| 30d | 2026-10-26 | 0 | 11 | 1 | 0 | 0 | 12 |
+| last60d | 2026-09-26 | 0 | 14 | 1 | 0 | 0 | 13 |
+| 90d | 2026-08-27 | 1 | 18 | 1 | 2 | 0 | 21 |
+| last180d | 2026-05-29 | 3 | 44 | 1 | 4 | 0 | 57 |
+| 360d | 2025-11-30 | 5 | 58 | 1 | 8 | 0 | 76 |
+| last720d | 2024-12-05 | 6 | 94 | 1 | 19 | 0 | 116 |
 
 ## Release 资产
 
@@ -86,15 +86,6 @@ x install convco
 | [convco-x86_64-unknown-linux-musl.tar.gz](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/x64/musl` |
 | [convco-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/convco/convco/releases/download/v0.7.2/convco-x86_64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/convco) 上共有 **11** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.7.2` | ✅ latest |
-| Nix unstable | `0.7.2` | ✅ latest |
-
 ## 改进这些数据
 
 convco 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `convco` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +95,4 @@ convco 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:31:24Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:14:44Z._
